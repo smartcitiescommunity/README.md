@@ -1,6 +1,6 @@
 Info about Smart Cities Community - Información de la comunidad Smart Cities
 
-# Herramientas
+# Direcciones de nuestros diferentes canales
 
 | Red | link | 
 | :-------------: | :-------------: |
