@@ -2,7 +2,23 @@ Info about Smart Cities Community - Información de la comunidad Smart Cities
 
 
 
-# Proposito Global
+# Proposito | Purpose
+
+| Lang | Description | 
+| :-------------: | :-------------: |
+| Spanish | |
+| Ingles |  |
+
+
+# Aspiración | Aspiration
+
+| Lang | Description | 
+| :-------------: | :-------------: |
+| Spanish | |
+| Ingles |  |
+
+
+# Proposito Global | Global purpose
 
 | Lang | Description | 
 | :-------------: | :-------------: |
