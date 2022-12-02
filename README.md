@@ -1,6 +1,10 @@
 Info about Smart Cities Community - Información de la comunidad Smart Cities
 
+Es necesario combatir la corrupción y la ausencia de etica en el sector público y privado. Pues la consecuencia es un mundo que enfrenta actualmente entre muchas crisis los problemas y retos a nivel institucional, climático, politico con profundas divisiones sociales y por ultimo pero no menos importante una crisis etica. Esta puede ser percibida desde avances tecnologicos tan recientes como la inteligencia artificial  o profesiones tan arcanas como los politicos y la función pública.
 
+Antes de llegara puntos de no retorno es importante apelar a la responsabilidad moral y la responsabilidad etica de cada  ciudadano en el mundo y preguntarles si estan haciendo lo correcto por ellos, por quienes les rodean y por la aldea global en la que viven.
+
+No obstante existen preocupaciones legitimas de los ciudadanos del mundo tales como: Los gobiernos del mundo hacen un correcto uso del impuesto que se cobra y este se distribuye, invierte o gasta correctamente? En cada territorio del mundo sus lideres y gobernantes resuelven sus necesidades y retos sociales de la mejor forma posible, con las personas mas preparadas e idoneas para sus roles y de una manera abierta y transparente?
 
 # Proposito | Purpose
 
@@ -14,8 +18,8 @@ Info about Smart Cities Community - Información de la comunidad Smart Cities
 
 | Lang | Description | 
 | :-------------: | :-------------: |
-| Spanish | |
-| Ingles |  |
+| Spanish | Ser la comunidad más importante del mundo en el tema de ciudades y comunidades inteligentes por sus aportes e impacto social, politico, ambiental|
+| Ingles | Become the most important community in the world in the field of smart cities and communities for its contributions and social, political, environmental impact |
 
 
 # Proposito Global | Global purpose
